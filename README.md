@@ -21,7 +21,7 @@ Instead of using hardcoded patterns that can miss variations, Gemini AI:
 ## 📋 Prerequisites
 
 1. **Python 3.7+**
-2. **Google Gemini API Key** - Get it free at: https://makersuite.google.com/app/apikey
+2. **Google Gemini API Key** - Get it free at: [https://aistudio.google.com/api-keys](https://aistudio.google.com/api-keys)
 
 ## 🔧 Installation
 
