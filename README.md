@@ -1,4 +1,4 @@
-# AI Language Detection Chatbot with Google Gemini
+# AI Language Detection Service with Google Gemini
 
 A Flask-based backend application powered by Google's Gemini AI for intelligent language detection. Unlike pattern-based detection, this uses actual AI to understand context and accurately identify languages including:
 
